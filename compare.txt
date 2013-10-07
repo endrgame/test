@@ -6,7 +6,7 @@
      [java] 7:5 	identifier(i)
      [java] 7:7 	=
      [java] 7:9 	integer literal(0)
-     [java] 7:14 	;
+     [java] 7:25 	;
      [java] 8:1 	INT
      [java] 8:5 	identifier(j)
      [java] 8:7 	=
@@ -103,7 +103,6 @@
      [java] 26:15 	=
      [java] 26:17 	integer literal(100)
      [java] 26:20 	;
-     [java] plz work
      [java] 27:2 	RETURN
      [java] 27:9 	identifier(i)
      [java] 27:10 	+
@@ -240,3 +239,5 @@
      [java] 49:25 	;
      [java] 51:1 	}
      [java] End test of CSX scanner.
+BUILD SUCCESSFUL
+Total time: 2 seconds
