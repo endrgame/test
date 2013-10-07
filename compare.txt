@@ -239,5 +239,3 @@
      [java] 49:25 	;
      [java] 51:1 	}
      [java] End test of CSX scanner.
-BUILD SUCCESSFUL
-Total time: 2 seconds
